@@ -1,0 +1,7 @@
+pygame
+random
+math
+pygame.locals
+arabic_reshaper
+bidi.algorithm
+time
